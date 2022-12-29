@@ -1,0 +1,1 @@
+print("%.1f"%((float(input()) * 1.6)))
